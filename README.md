@@ -55,7 +55,7 @@ Step-by-step instructions on how to install the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rjjha/Apni-Dukaan-Backend
+   https://github.com/ankitchouhan119/Ecommerce-backend.git
    cd your-repo
 2. Install dependencies:
    ```bash
@@ -140,7 +140,7 @@ You can contribute in this project by adding Ratings and reviews section.
 This project is licensed under the **MIT License.**
 
 ## Contact
-You can contact me with my Linkedin Id : [Rajesh Jha](https://www.linkedin.com/in/rajesh-jha-0aa47a205/).
+You can contact me with my Linkedin Id : [Ankit Chouhan](https://www.linkedin.com/in/ankit-chouhan-b41a87206/).
 
 
  
